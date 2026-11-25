@@ -2,13 +2,13 @@
 
 **Student:** SYED HASNAIN JAWWAD  
 **NIAT ID:** N26V01A0339
+**Section :**5
 
 A responsive real estate website concept for browsing homes and property listings. The landing page includes navigation, a hero section, a property-search panel, and trust/statistics highlights.
 
 ## Preview
 
-![EstateHub real estate website preview](screenshots/preview.png)
-
+https://1drv.ms/i/c/2a176e97c9b79e47/IQDXXRO7y-Y9QoEIf0nIkIOKAc0qymRsYZokndRzIRPa4mo?e=soPdKU
 ## Features
 
 - Real-estate themed landing page
