@@ -8,7 +8,7 @@ A responsive real estate website concept for browsing homes and property listing
 
 ## Preview
 
-https://1drv.ms/i/c/2a176e97c9b79e47/IQDXXRO7y-Y9QoEIf0nIkIOKAc0qymRsYZokndRzIRPa4mo?e=soPdKU
+<img src = "https://1drv.ms/i/c/2a176e97c9b79e47/IQDXXRO7y-Y9QoEIf0nIkIOKAc0qymRsYZokndRzIRPa4mo?e=soPdKU"/>
 ## Features
 
 - Real-estate themed landing page
